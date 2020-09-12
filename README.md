@@ -1,9 +1,7 @@
-### 🙏🏼 I'm Gurpreet Singh
-
-## I'm a Frontend Developer!
+## 🙏🏼 I'm a Frontend Developer!
 
 - 💻 I’m currently learning DENO.js
-- ⚡ Fun fact: I love to draw
+- ⚡ Fun fact: I love to sketch
 
 ### Connect with me:
 
