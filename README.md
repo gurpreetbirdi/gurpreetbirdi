@@ -1,4 +1,4 @@
-## 🙏🏼 I'm a Frontend Developer!
+## 🙏🏼 I'm a Full Stack Developer!
 
 - 💻 I’m currently learning DENO.js
 - ⚡ Fun fact: I love to sketch
