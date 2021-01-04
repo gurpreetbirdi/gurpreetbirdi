@@ -30,6 +30,6 @@
 
 ---
 
-[twitter]: https://twitter.com/gpsinghbirdi
+[twitter]: https://twitter.com/gpsingh41333
 [instagram]: https://www.instagram.com/gurpreet_birdi/
 [linkedin]: https://www.linkedin.com/in/gurpreet-singh-birdi/
